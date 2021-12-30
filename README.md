@@ -19,7 +19,7 @@ download the file
 
 unzip it
 
-type the desired mesaage in send.txt and save
+type the desired mesaage in the brackets and save
 
 open the folder with vscode 
 run the script and place the cursor in inbox where u want to spam
