@@ -42,10 +42,11 @@ If you have any feedback, please reach out to us at VIKASHCHAND147@GMAIL.com
 ## Authors
 
 - [@vikashchand](https://github.com/vikashchand)
+- 
+- [@Tirthankar2001](https://github.com/Tirthankar2001)
 
 
 ## Screenshots
 ![Screenshot (389)](https://user-images.githubusercontent.com/72156896/147771698-003604df-a180-43c5-83d0-cc1f6b363476.png)
 ![Screenshot (391)](https://user-images.githubusercontent.com/72156896/147771718-3a6d20af-2060-4a7b-8cd8-a6e978c70988.png)
-![Screenshot (392)](https://user-images.githubusercontent.com/72156896/147771722-ddb356bf-77a6-41d7-b71e-b5e0683f9c51.png)
 
