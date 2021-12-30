@@ -1,9 +1,9 @@
 import pyautogui
 import time
-
-
 time.sleep(1)
-file=open("send.txt",'r')
-for word in file:
-    pyautogui.typewrite(word)
-    pyautogui.press("enter")
+
+for i in range(10): 
+
+   pyautogui.typewrite("Hi ,I am Spammer!")
+   pyautogui.press('enter')
+   time.sleep(0.1)
